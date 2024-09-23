@@ -1,6 +1,4 @@
 Créditos
-
-- Raphael Victor: Banco de dados JSON;
-- Iago Atos: auxiliação do Banco de dados;
-- Jacyel Pablo: Front-End, HTML/JS do site;
-- Marcelo Leite: Design do site.
+- Iago Atos
+- Marcelo Leonardo.
+- Guilherme
